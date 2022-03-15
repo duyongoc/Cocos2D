@@ -1,0 +1,14 @@
+{
+  "ver": "1.1.35",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "5d2685e7-df91-4110-80fa-a202c8a9cb54",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "Menu",
+    "persistent": false
+  }
+}
